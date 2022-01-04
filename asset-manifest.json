@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Admin-Dashboard-Beginner-Level/static/css/main.b252eca5.css",
+    "main.js": "/React-Admin-Dashboard-Beginner-Level/static/js/main.d62244e4.js",
+    "index.html": "/React-Admin-Dashboard-Beginner-Level/index.html",
+    "main.b252eca5.css.map": "/React-Admin-Dashboard-Beginner-Level/static/css/main.b252eca5.css.map",
+    "main.d62244e4.js.map": "/React-Admin-Dashboard-Beginner-Level/static/js/main.d62244e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b252eca5.css",
+    "static/js/main.d62244e4.js"
+  ]
+}
